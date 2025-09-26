@@ -1,1 +1,3 @@
+pip install flake8
 
+flake8 your_script.py
